@@ -1,0 +1,11 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller output and generated spec
+/build/
+/dist/
+/Open4Terminals.spec
+
+# Local terminal folders and launch commands
+/open_4_terminals.json
